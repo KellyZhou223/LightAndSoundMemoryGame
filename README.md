@@ -30,7 +30,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-<img src="C:\Users\kelly\OneDrive\Documents\LightAndSoundGame.gif" width=250><br>
+![LightAndSoundGame](https://user-images.githubusercontent.com/41167481/161350679-126278ea-3e85-47f0-ab16-b4495c403b5c.gif)
+![LightAndSoundGame2](https://user-images.githubusercontent.com/41167481/161350704-51a147ee-8fc0-491b-814d-e8d95f47d632.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
