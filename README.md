@@ -1,4 +1,3 @@
-# LightAndSoundMemoryGame
 # Light and Sound Memory Game
 
 Kelly Zhou
